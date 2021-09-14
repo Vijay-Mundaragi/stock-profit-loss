@@ -1,0 +1,37 @@
+html{
+    width: 50%;
+    height: 50%;
+    margin: auto; /*Space from this element (entire page) and others*/
+    padding: 0; /*space from content and border*/
+    border: solid black;
+    border-width: thin;
+    overflow:hidden;
+    display:block;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    margin: 2rem;
+}
+
+button {
+    margin: 2rem;
+    border-radius: 6px;
+}
+
+
+label {
+    display: block;
+    margin-top: 1rem;;
+}
+
+button{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
